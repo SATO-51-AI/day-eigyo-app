@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Care-Route Planner(完成)",
+  "description": "効率的な訪問ルートを作成し、未訪問施設のリストを管理するアプリ。Googleマップと連携して時間効率の良い移動をサポートします。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
